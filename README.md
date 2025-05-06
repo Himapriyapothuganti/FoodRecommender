@@ -1,9 +1,9 @@
 # FoodRecommender
-🧠 Mood-Based Recipe Recommendation System
+🧠 Mood-Based Recipe Recommendation System:
 This project is a Natural Language Processing (NLP)-powered recipe recommendation system that personalizes meal suggestions based on the user's mood or craving. It leverages TextBlob, spaCy, and TF-IDF cosine similarity to analyze user input and match it with recipes from the Food.com Recipes and Reviews dataset.
 
-📊 Dataset Overview
-Source: Kaggle - Food.com Recipes and Reviews(https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv)
+📊 Dataset Overview:
+Source: Kaggle - Food.com Recipes and Reviews(https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv).
 Records: Over 226,000 recipes
 
 #Key Features:
